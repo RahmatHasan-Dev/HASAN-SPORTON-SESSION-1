@@ -1,4 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FYEP Programming Project – Next.js Web Application
+
+This project is developed as part of the **Final Year Engineering Project (FYEP)** under the **Programming** category.  
+The system is built using **Next.js** to demonstrate the application of modern web development technologies in solving real-world problems.
+
+---
+
+## Project Overview
+
+The objective of this project is to design and develop a web-based application that addresses issues related to **[jelaskan domain masalah, contoh: data management, automation, monitoring, etc.]**.
+
+This system provides an efficient, scalable, and user-friendly solution by leveraging modern frontend and backend technologies.
+
+The project focuses on:
+- Developing a responsive web application
+- Implementing core system functionalities
+- Applying best practices in software development
+
+---
+
+## Problem Statement
+
+Many existing systems suffer from several limitations, such as:
+- Manual and inefficient processes
+- Lack of real-time access to information
+- Poor user experience and scalability issues
+
+Therefore, a web-based solution is required to improve system efficiency, accessibility, and reliability through automation and modern web technologies.
+
+---
+
+## Objectives
+
+The objectives of this project are:
+1. To design and develop a web-based application using Next.js.
+2. To implement core functionalities such as data management and user interaction.
+3. To enhance system usability through a responsive user interface.
+4. To evaluate the system based on functionality and performance.
+
+---
+
+## Tech Stack
+
+- **Frontend:** Next.js (App Router), React, TypeScript
+- **Styling:** Tailwind CSS
+- **Backend:** Next.js API Routes
+- **Database:** [MongoDB / MySQL / PostgreSQL]
+- **Tools:** Node.js, npm, Git, VS Code
+
+---
+
+## System Architecture
+
+The system follows a client-server architecture:
+- The frontend is built using Next.js with server-side and client-side rendering.
+- API routes handle business logic and data processing.
+- The database stores persistent application data.
+
+---
+
+## Features
+
+- User-friendly and responsive interface
+- CRUD (Create, Read, Update, Delete) operations
+- Secure data handling
+- Modular and maintainable code structure
+
+---
 
 ## Getting Started
 
@@ -12,25 +79,3 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
